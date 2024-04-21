@@ -39,7 +39,7 @@
   <img align="center" alt="MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
-## 📈 Status
+## 📈 Languages ​​used
 
 <table align="center">
   <tr>
