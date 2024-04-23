@@ -36,7 +36,7 @@
 ### Banco de Dados
 
 <div style="display: inline_block">
-  <img align="center" alt="MySQL" height="30" width="40" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" title="SQLServer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
 
 ## 📈 Languages ​​used
