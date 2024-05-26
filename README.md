@@ -39,15 +39,5 @@
   <img align="center" alt="MySQL" height="30" width="40" title="SQLServer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
 
-## 📈 Languages ​​used.
 
-<table align="center">
-  <tr>
-    <td align="center">
-       <a href="https://github.com/LeoPDA" target="_blank">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoPDA&layout=compact&theme=dark" />
-      </a>
-    </td>
-  </tr>
-</table>
 <br>
