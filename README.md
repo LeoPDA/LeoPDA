@@ -39,7 +39,7 @@
   <img align="center" alt="MySQL" height="30" width="40" title="SQLServer" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
 
-## 📈 Languages ​​used
+## 📈 Languages ​​used.
 
 <table align="center">
   <tr>
